@@ -1,24 +1,5 @@
-# README
+# Let's Build: With Ruby on Rails - Discussion Forum
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Continuing my long stent of Ruby on Rails builds is yet another build which focuses more on relationships in a real-world discussion forum application.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The application on the outside looks a little bleak but I promise there is a lot going on under the hood of which you could extend to be something very feature rich.
